@@ -26,4 +26,4 @@
 多设备兼容，观影更自由
 平台支持多终端播放，页面响应迅速，界面简洁易用。无论您是在家中使用电视、手机还是电脑，平台都能完美兼容，并提供横屏、倍速播放等多种功能，确保您能根据个人需求调整观看体验。即使在不同设备上观看，平台也能保证流畅的播放效果，极大地提升了用户的自由度。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link]( https://github.com/aiy456547/ribennn654314)</span>
